@@ -1,0 +1,3 @@
+name = "ChrisTestPkg"
+uuid = "55b8f459-a959-4a23-ae1e-fc49525a582e"
+repo = "https://github.com/chowerth/ChrisTestPkg.jl.git"
