@@ -1,0 +1,6 @@
+name = "ChrisJuliaRegistry"
+uuid = "d94e65b8-b6ba-4012-81ca-70cc75ad30d3"
+repo = "https://github.com/chowerth/ChrisJuliaRegistry.git"
+description = "Chris's private registry"
+
+[packages]
